@@ -129,22 +129,6 @@ Seaborn
 Git
 
 GitHub
-
-### Project Structure
-Trader-Behavior-Insights
-│
-├── data
-│   ├── historical_data.csv
-│   └── fear_greed_index.csv
-│
-├── outputs
-│   └── charts
-│
-├── analysis.py
-├── README.md
-└── requirements.txt
-Installation & Usage
-
 ### Clone the repository:
 
 git clone https://github.com/YOUR_USERNAME/Trader-Behavior-Insights.git
